@@ -1,0 +1,19 @@
+theme: minima
+
+title: Joel Tan
+author:
+  name: Tan Zu Wei Joel
+  email: joeltanzu@gmail.com
+
+minima:
+  skin: dark
+  date_format: "%-d %b, %Y"
+
+  # generate social links in footer
+  social_links:
+    github:  joeltanzu
+    linkedin: joeltanzu
+
+header_pages:
+  - projects.md
+  - blog.md
