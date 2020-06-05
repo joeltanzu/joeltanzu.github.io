@@ -4,9 +4,9 @@
 # between the top bar and the list of recent posts.
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# title: About
 #
 layout: default
-title: About
 ---
 ![Joel Tan](https://media-exp1.licdn.com/dms/image/C5103AQHwKZgJiIHZHA/profile-displayphoto-shrink_200_200/0?e=1596672000&v=beta&t=QBAgxuFtKnZrknXs0IpYzk9GYPeKgIs58NuS0Qku2Bc)
 ## Hello!

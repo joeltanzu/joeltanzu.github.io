@@ -16,4 +16,5 @@ minima:
 
 header_pages:
   - projects.md
+  - cv.md
   - blog.md
