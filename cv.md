@@ -3,7 +3,7 @@ layout: default
 title: CV
 permalink: /CV/
 ---
-## EDUCATION
+## Education
 **National University of Singapore** (2019 - 2023)
 
 Bachelor of Social Sciences in Psychology (Expected)
@@ -16,7 +16,7 @@ Diploma (with Merit) in Film, Sound and Video, Diploma Plus Certificate in Busin
 * MPA-International Prize (Most outstanding in 'Media Law')
 * North-West CDC Outstanding All Rounder Student Award (School Level)
 
-## WORK
+## Work
 **Republic of Singapore Air Force** (2011 - Present)
 
 Senior Pilot (Formation Lead) qualified on type in the AH-64D
@@ -33,11 +33,10 @@ Sports Broadcast Group Intern
 * Main evaluator for production company pitches
 * New Media Broadcast Manager for Singapore Youth Olympic Games microsite
 
-## CO-CURRICULAR ACTIVITIES AND VOLUNTEER EXPERIENCES
+## Co-Curricular Activities and Volunteer Experiences
+**Ngee Ann Polytechnic Videography Photography Club** (2009 - 2011)
 
-**Ngee Ann Polytechnic, Photography Club President** (2009 - 2011)
-
-Videography Section Founder
+President / Videography Section Founder
 * Instructor for video editing skills for club members
 
 **Ngee Ann Polytechnic - National Junior College Joint Community Project (Philippines)** (2009)
@@ -46,8 +45,7 @@ Team Leader
 * Led a group of 20 students to set up a kitchen in Saceda Youth Lead, Cebu
 * Facilitated sharing sessions with students from Saceda Youth Lead
 
-## KEY PARTICIPATIONS
-
+## Key Participations
 **Ngee Ann Polytechnic Overseas Merit Fellowship (California)** (2010)
 
 Representative
