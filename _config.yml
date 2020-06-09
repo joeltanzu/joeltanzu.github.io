@@ -14,6 +14,8 @@ minima:
     github:  joeltanzu
     linkedin: joeltanzu
 
+  google_analytics: UA-168909721-1
+
 header_pages:
   - projects.md
   - cv.md
