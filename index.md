@@ -8,7 +8,7 @@
 #
 layout: default
 ---
-![Joel Tan](https://media-exp1.licdn.com/dms/image/C5103AQHwKZgJiIHZHA/profile-displayphoto-shrink_200_200/0?e=1596672000&v=beta&t=QBAgxuFtKnZrknXs0IpYzk9GYPeKgIs58NuS0Qku2Bc)
+<img src="/images/profile.jpg" width="300">
 ## Hello!
 
 I'm Joel Tan, a second year student in the National University of Singapore. I am currently doing a Bachelors of Social Sciences in Psychology. My primary interests are in cognitive psychology, social work, and statistics. 
