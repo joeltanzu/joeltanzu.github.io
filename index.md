@@ -11,7 +11,7 @@ layout: default
 <img src="/images/profile.jpg" width="300">
 ## Hello!
 
-I'm Joel Tan, a second year student in the National University of Singapore. I am currently doing a Bachelors of Social Sciences in Psychology. My primary interests are in cognitive psychology, social work, and statistics. 
+I'm Joel Tan, a second year student in the National University of Singapore. I am currently doing a Bachelors of Social Sciences in Psychology (Primary Major) and Social Work (2nd Major). My primary interests are in cognitive psychology, social work, and statistics. 
 
 I also work as an AH-64D Apache Helicopter Pilot with the Republic of Singapore Air Force. I have been posted on a two year detachment to the United States of America, working and training with US Army Aviators. I have held appointments such as Squadron Deputy Operations Officer and Flight Scheduler along with my primary role as a Pilot. 
 

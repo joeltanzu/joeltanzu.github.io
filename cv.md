@@ -6,7 +6,7 @@ permalink: /CV/
 ## Education
 **National University of Singapore** (2019 - 2023)
 
-Bachelor of Social Sciences in Psychology (Expected)
+Bachelor of Social Sciences in Psychology (Primary Major) and Social Work (2nd Major) (Expected)
 
 **Ngee Ann Polytechnic** (2008 - 2011)
 
@@ -27,7 +27,7 @@ Senior Pilot (Formation Lead) qualified on type in the AH-64D
 
 **Singapore Sports Council** (2010)
 
-Sports Broadcast Group Intern
+Sports Broadcast Management Intern
 * Graded A with Distinction (Top 5%) for outstanding contributions
 * Conceptualised and procured video editing studio and video equipment
 * Main evaluator for production company pitches
