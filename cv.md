@@ -7,6 +7,7 @@ permalink: /CV/
 **National University of Singapore** (2019 - 2023)
 
 Bachelor of Social Sciences in Psychology (Primary Major) and Social Work (2nd Major) (Expected)
+* Dean's List AY20/21 Semester 1
 
 **Ngee Ann Polytechnic** (2008 - 2011)
 
@@ -25,6 +26,10 @@ Senior Pilot (Formation Lead) qualified on type in the AH-64D
 * Served two-year overseas detachment in Tucson, AZ (Peace Vanguard)
 * 955.3 Flight Hours, 194.6 Pilot-in-Command Hours (As at 31 Jul 2019)
 
+**National University of Singapore** (2020 - Present)
+
+Teaching Assistant for GET1050 Computational Reasoning, a module offered under NUS Faculty of Arts and Social Sciences Philosophy Department.
+
 **Singapore Sports Council** (2010)
 
 Sports Broadcast Management Intern
@@ -32,6 +37,7 @@ Sports Broadcast Management Intern
 * Conceptualised and procured video editing studio and video equipment
 * Main evaluator for production company pitches
 * New Media Broadcast Manager for Singapore Youth Olympic Games microsite
+* Content Creator for various national sporting events (e.g. Singapore Youth Olympic Games, Asian Youth Games, Standard Chartered Singapore Marathon)
 
 ## Co-Curricular Activities and Volunteer Experiences
 **Ngee Ann Polytechnic Videography Photography Club** (2009 - 2011)
